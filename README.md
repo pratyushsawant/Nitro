@@ -4,6 +4,8 @@ A proof‑of‑concept AI assistant inspired by tools like **Blackbox**, **Lovab
 
 ---
 
+[display text](https://nitroaiagent.vercel.app/)
+
 ## ✨ Why this POC?
 
 Existing assistants often feel one‑size‑fits‑all. This POC focuses on:
