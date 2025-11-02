@@ -4,7 +4,10 @@ A proof‑of‑concept AI assistant inspired by tools like **Blackbox**, **Lovab
 
 ---
 
-[display text](https://nitroaiagent.vercel.app/)
+## Deployment
+
+Happy to Announce Deployment of my AI Agent
+[Deployed Link](https://nitroaiagent.vercel.app/)
 
 ## ✨ Why this POC?
 
