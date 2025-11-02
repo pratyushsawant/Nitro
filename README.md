@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nitro
 
 A proof‑of‑concept AI assistant inspired by tools like **Blackbox**, **Lovable**, and **Bold**—but designed to be more adaptable and less generic. Built with **Next.js** (frontend), **JavaScript** (backend/Convex), **Clerk** (authentication), **Tailwind CSS** (styling), and **Bun** (package manager/runtime). Uses **Gemini** for LLM capabilities today, with a roadmap to plug in stronger **multimodal** LLMs.
